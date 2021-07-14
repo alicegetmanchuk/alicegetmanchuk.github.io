@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-Position: 1
+position: 1
 ---
 
 ### HOME
