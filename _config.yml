@@ -35,7 +35,7 @@ plugins:
 header_pages:
   - home.md
   - resume.md
-  - about.markdown
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
