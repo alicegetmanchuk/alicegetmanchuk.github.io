@@ -5,6 +5,4 @@ permalink: /about/
 position: 3
 ---
 
-### ABOUT
-
 This is where I'm going to have more information about me...
