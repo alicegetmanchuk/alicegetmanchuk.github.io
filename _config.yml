@@ -29,11 +29,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alicegetmanchuk
 
 # Build settings
-theme: minima
+remote_theme: raviriley/agency-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-pdf-embed
+  - jekyll-remote-theme
 
 header_pages:
   - index.md
