@@ -34,9 +34,10 @@ github_username:  alicegetmanchuk
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 header_pages:
-  - index.markdown
+  - index.md
   - resume.md
   - about.md
 
