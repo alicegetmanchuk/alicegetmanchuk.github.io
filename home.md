@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
-Position: 2
+title: Home
+Position: 1
 ---
 
 ### Hello!
