@@ -22,7 +22,7 @@ title: Alice Getmanchuk
 email: alicegetmanchuk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! My name is Alice Getmanchuk, and this is my website. I'm currently in the process of working on it, so stay tuned for more progress... :)
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  alicegetmanchuk
