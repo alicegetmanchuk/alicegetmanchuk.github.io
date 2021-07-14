@@ -2,9 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-Position: 2
 ---
 
-### Hello!
+### ABOUT
 
 My name is Alice, and I am testing this right now.
