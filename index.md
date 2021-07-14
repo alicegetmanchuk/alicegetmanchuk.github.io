@@ -7,4 +7,4 @@ title: Home
 position: 1
 ---
 
-My name is Alice Getmanchuk. This website is currently a work in progress...
+My name is Alice Getmanchuk. Welcome to my website!
