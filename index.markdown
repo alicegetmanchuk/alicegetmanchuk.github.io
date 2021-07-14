@@ -6,4 +6,6 @@ layout: home
 title: Home
 position: 1
 ---
-My name is Alice, and I am testing this right now.
+### HOME
+
+My name is Alice Getmanchuk. This website is currently a work in progress...
