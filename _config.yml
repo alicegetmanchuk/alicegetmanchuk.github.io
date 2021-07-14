@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - index.markdown
   - resume.md
   - about.md
 
