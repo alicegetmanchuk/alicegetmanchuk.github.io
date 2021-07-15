@@ -7,4 +7,8 @@ title: Home
 position: 1
 ---
 
-My name is Alice Getmanchuk. Welcome to my website!
+### Welcome!
+
+![Headshot](https://github.com/alicegetmanchuk/alicegetmanchuk.github.io/raw/main/_media/new_headshot.jpg){:class="img-responsive"}
+
+My name is Alice Getmanchuk, and this is my website. I'm currently a junior studying Computer Engineering and minoring in the Hoeft Technology and Management Program Class XVII at the University of Illinois at Urbana-Champaign.
