@@ -7,7 +7,7 @@ position: 2
 
 Below is an up-to-date version of my resume. Or if you would prefer it linked [here](https://drive.google.com/file/d/15YF1on8Ijj7SqG4qJP7SB4BEDCpMT5a0/view?usp=sharing)
 
-![Resume](/_media/cur_resume.jpg){:class="img-responsive"}
+![Resume](https://github.com/alicegetmanchuk/alicegetmanchuk.github.io/raw/main/_media/cur_resume.jpg){:class="img-responsive"}
 
 ### Education
 University of Illinois at Urbana-Champaign, Grainger College of Engineering	May 2023
