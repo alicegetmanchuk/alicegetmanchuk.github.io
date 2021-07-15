@@ -5,7 +5,9 @@ permalink: /resume/
 position: 2
 ---
 
-Below is an up-to-date version of my resume. Or if you would prefer it linked [here] (https://drive.google.com/file/d/15YF1on8Ijj7SqG4qJP7SB4BEDCpMT5a0/view?usp=sharing)
+Below is an up-to-date version of my resume. Or if you would prefer it linked [here](https://drive.google.com/file/d/15YF1on8Ijj7SqG4qJP7SB4BEDCpMT5a0/view?usp=sharing)
+
+![Resume](/_media/cur_resume.jpg){:class="img-responsive"}
 
 ### Education
 University of Illinois at Urbana-Champaign, Grainger College of Engineering	May 2023
@@ -48,7 +50,9 @@ Member	 			          	   			 			   August 2020 – Present
 
 ### Scholarships and Awards
 •	Illinois Premier Engineering Scholarship
-•	ECE Advanced Micro Devices Scholarship 
+
+•	ECE Advanced Micro Devices Scholarship
+
 •	National Merit Finalist (2019) – One of 15,000 students nationwide recognized for academic achievement
 
 
