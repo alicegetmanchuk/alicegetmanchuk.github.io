@@ -2,7 +2,7 @@
 layout: page
 title: Posts
 permalink: /posts/
-position: 3
+position: 4
 ---
 
 This is where I might have more posts...

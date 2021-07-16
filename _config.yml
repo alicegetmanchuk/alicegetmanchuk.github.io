@@ -39,7 +39,9 @@ plugins:
 
 header_pages:
   - index.md
-  - resume.md
+  - experience.md
+  - projects.md
+  - posts.md
   - about.md
 
 markdown: kramdown
