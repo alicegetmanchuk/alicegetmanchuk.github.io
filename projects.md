@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 position: 3
 ---
-This is where I will have information regarding my projects...
+I currently have a couple of projects I'm working on from my long list of ideas. Stay tuned to see more about my projects in the (very) near future!
