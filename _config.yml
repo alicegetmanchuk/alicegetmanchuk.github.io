@@ -36,8 +36,6 @@ plugins:
   - jekyll-pdf-embed
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-twitter-plugin
-  - jekyll-gist
 
 header_pages:
   - index.md
